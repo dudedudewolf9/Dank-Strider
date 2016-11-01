@@ -1,4 +1,6 @@
 p.one{
       position: fixed;
-      background: pink;
+      background-color: pink;
+      bottom: 50px
+      left: 50px
       }
