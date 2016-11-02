@@ -13,3 +13,9 @@ p.one{
 h2{
       font-size: 45px
 }
+ul.one{
+      background: green;
+      float: right;
+      height: 50%;
+      width: 50%;
+}
